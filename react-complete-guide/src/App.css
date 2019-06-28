@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.buttSwitchName {
+  background-color: cadetblue;
+  color: whitesmoke;
+  font: inherit;
+  border: 1px solid #f2f2f2;
+  padding: 8px;
+  cursor: pointer;
+}
